@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cvMargen">20dp</dimen>
+    <dimen name="cornerRadiusCardView">4dp</dimen>
+    <dimen name="tamanioImagen">200dp</dimen>
+    <dimen name="textoCardView">30sp</dimen>
+    <dimen name="tamanioIconos">40dp</dimen>
+    <dimen name="elevacionActionBar">4dp</dimen>
+</resources>
